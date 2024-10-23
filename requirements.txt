@@ -1,0 +1,11 @@
+langchain-groq==0.1.9
+langchain-core==0.2.36
+langchain-community==0.2.14
+langchain-google-genai==1.0.10
+streamlit==1.38.0
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+faiss-cpu
+tavily-python==0.4.0
+streamlit_mic_recorder
+speech_recognition
